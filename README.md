@@ -6,7 +6,7 @@
  
 3. Through the interface the candidates can also login to their accounts and view the jobs posted by the companies.
  
-4.. The interface enables the candidates to apply for the jobs posted by the companies.
+4. The interface enables the candidates to apply for the jobs posted by the companies.
  
 5. The company can view the number of applicants along with their name and email
   
