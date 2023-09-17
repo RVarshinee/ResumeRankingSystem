@@ -16,6 +16,29 @@
 
 8. The details of the candidates including the resume of the candidates and the job description posted by the company are stored in the database for effective and efficient retrieval of data.
 
+**Installations required for running web app**
+
+1. pip install -r requirements.txt
+
+2. GOOGLE_CLIENT_ID is unique for every user. In order to run the app it is required to use one's own unique GOOGLE_CLIENT_ID which is accessible through Google Cloud website.
+   i) A new project named ResumeRankingSystem has to be created in Google Cloud website.
+   ii) OAuth consent screen details have to be updated
+   iii) OAuth client Id has to be created
+
+3. Download the json file after creating the client id and rename it to client_secret.json
+
+4. Utilize MONGO URI from the MongoDB Atlas website.
+   i) Build a Database
+   ii) Set the username and password
+   iii) Set network access to access from anywhere
+   iv) Connect to the cluster
+   v) Copy the MONGO URI and use it
+
+5. In the assets folder add the JdModel and ResumeModel folders
+   i) Links to the models are provided in the assests.txt file under the assets folder which is under the ResumeRankingSystem folder.
+
+6. Use the command flask run to start the server
+
 **Approach**
 
 Involves the following steps:
