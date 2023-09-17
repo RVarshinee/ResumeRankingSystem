@@ -1,0 +1,5 @@
+assests folder involves the Resume model and the job description model.
+
+Resume model: https://drive.google.com/drive/folders/1t34Ntm9wkTasX0tO0DZ0NGd8eL4ypZPC?usp=sharing
+
+Job Description Model: https://drive.google.com/drive/folders/1hK8I83I6gYRq63O8XKwwLmS2hhhtrURi?usp=sharing
